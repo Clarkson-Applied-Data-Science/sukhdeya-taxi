@@ -1,0 +1,2 @@
+1. I have opted to use trip_data_6.csv dataset.
+2. I have also provided you with both Notebook and Python script for the same.
